@@ -7,11 +7,12 @@ h1 {
 div {
     width: 300px;
     border: 15px solid pink;
-    fill: transparent;
     margin: 20px;
 }
 
 input[type=text]
 {
     width: 100%;
+    fill: transparent;
+    fill-opacity: 0;
 }
