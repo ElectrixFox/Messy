@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 250%;
+    font-family: monospace;
+}
+
+div {
+    width: 300px;
+    border: 15px solid pink;
+    fill: transparent;
+    margin: 20px;
+}
+
+input[type=text]
+{
+    width: 100%;
+}
